@@ -9,5 +9,5 @@ This project was created during my first year at university as part of an OOP co
 - Categorize results (Underweight, Normal, Overweight, Obese)
 
 ## Technologies
-- Java
+- C#
 - Object-Oriented Programming (OOP)
