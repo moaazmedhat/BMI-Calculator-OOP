@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="BMI Calculator.exe" version="1.0.0.0" publicKeyToken="52bd93f9f7ef3172" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="BMI Calculator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="BMI Calculator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BMI Calculator.exe" size="14840">
+      <assemblyIdentity name="BMI Calculator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>HqpIKZ+FesgoX38Yqg778VSnMSnAs3wV5laq8m3p3S8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="BMI Calculator.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MOAAZ-MEDHAT\Moaaz Medhat" issuerKeyHash="cdf23b2a4bf9339ec416e524ed782bb3de60843a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wBJjLstPJTSUQU6yGNc4d4gTVRG8K1rKvqIMaLrW4vI=</DigestValue></Reference></SignedInfo><SignatureValue>Ge525DmYvYmWInUzevbdVDSpZ4UOQ9oaJeN4criccg8n7KQS0jpnpFjkZxA5uuZ+CW+3DBS1qJHoC7TFmHesYgS83ppwL4Ha3WJDb/TnSRIZavw+Fs2MU6zdp0Jh5GBimRYQEoGwyRN/Cs2wvqX/uzhhJBnLoPJ0BPFniXXtcZ4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4Dh9hSkrhYpXZi76MiUGP4ttdqR0vT0tqthdZLs/3vQm1mvqOGMF95Whw/uj39pbghixa8f03O62PYumNCjpVU2oP6fvgManZSt503SBNTheg2TYLbSXrSGyqAEne2Vxqbd4zj7b14HNf63x/UnhhkBMaOExrcpOqGqM54foPOk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f2e2d6ba680ca2beca5a2bbc115513887738d718b24e419434254fcb2e6312c0" Description="" Url=""><as:assemblyIdentity name="BMI Calculator.exe" version="1.0.0.0" publicKeyToken="52bd93f9f7ef3172" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MOAAZ-MEDHAT\Moaaz Medhat</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>u2ouMtweYE2XUv8pUbU1vFkq47/4uaaDa+VQwQOrYDs=</DigestValue></Reference></SignedInfo><SignatureValue>CrbsiKQ5VUtK6SBYMNyfy02nsumnyUEnq8/vk1oQFAPmqhprHPy6qhd3MeBhkl10FrZYlEk+bf87b3RH3rxjQ5X1xXQTXULv2QqQwAUOOZsOtgWvcVtadOaV+RozPQuhn7l/uh6cgfvR65rrl8KulLpRp6WxMgPyQJQIyG6LeeU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4Dh9hSkrhYpXZi76MiUGP4ttdqR0vT0tqthdZLs/3vQm1mvqOGMF95Whw/uj39pbghixa8f03O62PYumNCjpVU2oP6fvgManZSt503SBNTheg2TYLbSXrSGyqAEne2Vxqbd4zj7b14HNf63x/UnhhkBMaOExrcpOqGqM54foPOk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB/TCCAWagAwIBAgIQSQ5OoVTfPp1DgifeSV/VfjANBgkqhkiG9w0BAQsFADA9MTswOQYDVQQDHjIATQBPAEEAQQBaAC0ATQBFAEQASABBAFQAXABNAG8AYQBhAHoAIABNAGUAZABoAGEAdDAeFw0yNTA1MDgxNzUwMjVaFw0yNjA1MDgyMzUwMjVaMD0xOzA5BgNVBAMeMgBNAE8AQQBBAFoALQBNAEUARABIAEEAVABcAE0AbwBhAGEAegAgAE0AZQBkAGgAYQB0MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDgOH2FKSuFildmLvoyJQY/i212pHS9PS2q2F1kuz/e9CbWa+o4YwX3laHD+6Pf2luCGLFrx/Tc7rY9i6Y0KOlVTag/p++AxqdlK3nTdIE1OF6DZNgttJetIbKoASd7ZXGpt3jOPtvXgc1/rfH9SeGGQExo4TGtyk6oaoznh+g86QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAMVjYc8IGlqJBxc+vJ34z1gMtzI555sh2vQDFrVfCJqexGpH7xXYOOahcJLxQGvVLHt9N3v209TzvQC7tCfDdHqajXEo+mz7YDmihUHKNdDvYmQHvd5cyeiI418JAKhBCvAT3xgtZm0KjGqA3OUk/GuGrNlueWe6Ohx6itjncpyS</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

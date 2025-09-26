@@ -1,0 +1,20 @@
+
+BMI: 19.71, Category: Normal weight, Advice: Maintain your current diet and exercise regimen., Date: 5/12/2025 11:50:20 PM
+BMI: 35.83, Category: Obese, Advice: Consult a nutritionist to develop a suitable diet., Date: 5/12/2025 11:50:50 PM
+BMI: 8.96, Category: Underweight, Advice: Try to increase your calories by eating healthy foods like nuts and dairy products., Date: 5/12/2025 11:50:55 PM
+
+BMI: 19.71, Category: وزن طبيعي, Advice: حافظ على نظامك الحالي., Date: 5/14/2025 6:11:34 PM
+BMI: 19.71, Category: وزن طبيعي, Advice: حافظ على نظامك الحالي., Date: 5/14/2025 6:13:50 PM
+BMI: 19.71, Category: Normal Weight, Advice: Maintain your current diet., Date: 5/14/2025 6:24:41 PM
+BMI: 25, Category: Overweight, Advice: Reduce calories and increase physical activity., Date: 5/14/2025 7:22:41 PM
+BMI: 17.92, Category: Underweight, Advice: Increase your calories by eating nuts and dairy products., Date: 5/17/2025 11:37:59 PM
+BMI: 24, Category: Normal Weight, Advice: Maintain your current diet., Date: 5/18/2025 10:21:44 AM
+BMI: 23.99, Category: Normal Weight, Advice: Maintain your current diet., Date: 5/18/2025 10:22:10 AM
+BMI: 20.9, Category: Normal Weight, Advice: Maintain your current diet., Date: 5/18/2025 10:22:38 AM
+BMI: 20.9, Category: Normal Weight, Advice: Maintain your current diet., Date: 5/18/2025 10:22:39 AM
+BMI: 20.9, Category: Normal Weight, Advice: Maintain your current diet., Date: 5/18/2025 10:22:41 AM
+BMI: 27.7, Category: Overweight, Advice: Reduce calories and increase physical activity., Date: 5/18/2025 10:23:06 AM
+BMI: 20.52, Category: Normal Weight, Advice: Maintain your current diet., Date: 5/18/2025 10:23:32 AM
+BMI: 21.88, Category: Normal Weight, Advice: Maintain your current diet., Date: 5/18/2025 10:49:28 AM
+BMI: 23.84, Category: Normal Weight, Advice: Maintain your current diet., Date: 5/18/2025 10:49:50 AM
+BMI: 17.1, Category: Underweight, Advice: Increase your calories by eating nuts and dairy products., Date: 5/18/2025 11:00:49 AM

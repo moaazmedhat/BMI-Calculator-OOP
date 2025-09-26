@@ -1,0 +1,14 @@
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.AssemblyReference.cache
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.manifest
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.application
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe.manifest
+C:\Users\Moaaz Medhat\source\repos\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.application
